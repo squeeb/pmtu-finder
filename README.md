@@ -1,8 +1,12 @@
 # Max MTU finder
 
+Little bash script to help find the maximum MTU between a source and destination.
+
 For when PMTU is inevitably broken.
 
 Works with BSD or GNU `ping`.
+
+I know tracepath and other tools exist. This was just hacked together in a tight spot with no internet access.
 
 # Usage
 
