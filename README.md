@@ -8,7 +8,7 @@ Works with BSD or GNU `ping`.
 
 I know tracepath and other tools exist. This was just hacked together in a tight spot with no internet access.
 
-# Usage
+# Usage
 
 ```
 Usage: pmtu_finder.sh target_ip {min_mtu (1200)} {max_mtu (1514)} {die_after(3)}
